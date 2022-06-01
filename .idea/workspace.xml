@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bf6418f-484e-40e1-96a2-9e5ed4f923eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asylum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/Asylum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/blocks/BlockBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/blocks/BlockEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/files/RegionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/command/RegionCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/command/RegionCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/crafting/AnvilInventoryEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/crafting/AnvilRecipes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/database/MongoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/discordIntergrations/ChatConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/discordIntergrations/DiscordMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/discordIntergrations/DiscordWebhook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/fun/FunCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/gui/ItemGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/gui/ItemGuiEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ArmorItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/BashersItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ExtraItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/FoodItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/MaterialsItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/MeleeWeaponItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ResourceItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ToolItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/UpgradesItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/player/Damage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/player/PlayerMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/rightClick/RightClickItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/staff/GamemodeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/staff/ModerationCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/staff/StaffCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29ApAQoBIJ3cI0B8bxNBOc2KwwW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jakec\Documents\GitHub\Asylum\src\main" />
+      <recent name="C:\Users\jakec\Documents\GitHub\Asylum\src\main\java\resources" />
+      <recent name="C:\Users\jakec\Documents\GitHub\Asylum\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b692cd69-0c66-4da2-8c55-ff34d449df5a" name="Changes" comment="" />
+      <created>1652565601421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652565601421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

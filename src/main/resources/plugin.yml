@@ -1,0 +1,69 @@
+main: org.asylum.Asylum
+name: Asylum
+api-version: 1.18
+version: 1
+commands:
+    clearchat:
+        description: Clears chat
+        usage: /<command>
+        aliases:
+            - cc
+            - chatclear
+    wakeplayer:
+        description: Wakes the player with sound
+        usage: /<command> <player>
+        aliases:
+            - playerwake
+            - wp
+    kick:
+        description: Kicks the player
+        usage: /<command> <player> <reason>
+    uniquejoins:
+        description: Messages the player the number of unique joins
+        usage: /<command>
+    hammer:
+        description: Gives the player a hammer
+        usage: /<command>
+    crystal:
+        description: Gives the player a crystal
+        usage: /<command>
+    stonepick:
+        description: Gives the player a stone pickaxe
+        usage: /<command>
+    tinpick:
+        description: Gives the player a tin pickaxe
+        usage: /<command>
+    magmabucket:
+        description: Gives the player a magma bucket
+        usage: /<command>
+    tinbashshield:
+        description: Gives the player a tin bash shield
+        usage: /<command>
+    bashshields:
+        description: Gives the player the bash shields
+        usage: /<command>
+    armorplates:
+        description: Gives the player the armor plate upgrades
+        usage: /<command>
+    tinarmors:
+        description: Gives the player the tin armors
+        usage: /<commanmd>
+    copperarmors:
+        description: Gives the player the copper armors
+        usage: /<command>
+    bronzearmors:
+        description: Gives the player the bronze armors
+        usage: /<command>
+    ironarmors:
+        description: Gives the player the iron armors
+        usage: /<command>
+    titaniumarmors:
+        description: Gives the player the titanium armors
+        usage: /<command>
+    tungstenarmors:
+        description: Gives the player the tungsten armors
+        usage: /<command>
+    pebble:
+        description: Gives the player a pebble
+        usage: /<command>
+    togglechatdisc:
