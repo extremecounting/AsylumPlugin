@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf6418f-484e-40e1-96a2-9e5ed4f923eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asylum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/Asylum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/blocks/BlockBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/blocks/BlockEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/files/RegionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/Bound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/command/RegionCmd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/core/regions/command/RegionCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/crafting/AnvilInventoryEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/crafting/AnvilRecipes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/database/MongoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/discordIntergrations/ChatConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/discordIntergrations/DiscordMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/discordIntergrations/DiscordWebhook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/fun/FunCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/gui/ItemGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/gui/ItemGuiEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ArmorItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/BashersItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ExtraItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/FoodItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/MaterialsItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/MeleeWeaponItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ResourceItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/ToolItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/itemManager/UpgradesItemManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/player/Damage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/player/PlayerMove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/rightClick/RightClickItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/staff/GamemodeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/staff/ModerationCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/staff/StaffCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/asylum/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="7bf6418f-484e-40e1-96a2-9e5ed4f923eb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
