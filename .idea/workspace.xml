@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7bf6418f-484e-40e1-96a2-9e5ed4f923eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/asylum/rightClick/RightClickItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/asylum/rightClick/RightClickItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

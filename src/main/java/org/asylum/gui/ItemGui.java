@@ -20,7 +20,7 @@ public class ItemGui implements InventoryHolder {
     ItemStack DisplayItem = RightClickItem.DisplayItem;
 
     public ItemGui() {
-        inv = Bukkit.createInventory(this, 54, DisplayItem.getItemMeta().getDisplayName());
+        inv = Bukkit.createInventory(null, 54, DisplayItem.getItemMeta().getDisplayName());
         init();
     }
 
