@@ -37,7 +37,6 @@ public class RightClickItem implements Listener {
                     double pushAmount = 1.5;
                     int damage = (BashersItemManager.bashersName.indexOf(item.getItemMeta().getDisplayName()) * 2) + 4;
                     player.setVelocity(player.getLocation().getDirection().multiply(pushAmount));
-                    player.sendMessage(String.valueOf(damage));
                     Bukkit.getScheduler().runTaskLater(JavaPlugin.getPlugin(Asylum.class), () -> {
                         Collection<Entity> mobs = player.getWorld().getNearbyEntities(player.getLocation(), 2, 2, 2);
                         for (Entity e : mobs) {
@@ -45,7 +44,7 @@ public class RightClickItem implements Listener {
                                 ((LivingEntity) e).damage(damage);
                             }
                         }
-                    }, 2L);
+                    }, 6L);
                 }
             }
         }
