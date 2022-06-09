@@ -10,6 +10,8 @@ import org.asylum.discordIntergrations.DiscordMessage;
 import org.asylum.fun.FunCommands;
 import org.asylum.gui.ItemGuiEvents;
 import org.asylum.itemManager.*;
+import org.asylum.npc.interactEvent.*;
+import org.asylum.npc.inventoryEvents.*;
 import org.asylum.player.Damage;
 import org.asylum.player.PlayerMove;
 import org.asylum.rightClick.RightClickItem;
@@ -71,6 +73,18 @@ public class Asylum extends JavaPlugin {
 		Bukkit.getPluginManager().registerEvents(new RightClickItem(), this);
 		Bukkit.getPluginManager().registerEvents(new ChatConversion(), this);
 		Bukkit.getPluginManager().registerEvents(new AnvilInventoryEvent(), this);
+
+		Bukkit.getPluginManager().registerEvents(new CookEvents(), this);
+		Bukkit.getPluginManager().registerEvents(new ButcherEvents(), this);
+		Bukkit.getPluginManager().registerEvents(new RefineryEvents(), this);
+		Bukkit.getPluginManager().registerEvents(new BlacksmithEvents(), this);
+		Bukkit.getPluginManager().registerEvents(new ArmorsmithEvents(), this);
+
+		Bukkit.getPluginManager().registerEvents(new Cook(), this);
+		Bukkit.getPluginManager().registerEvents(new Butcher(), this);
+		Bukkit.getPluginManager().registerEvents(new Refinery(), this);
+		Bukkit.getPluginManager().registerEvents(new Blacksmith(), this);
+		Bukkit.getPluginManager().registerEvents(new Armorsmith(), this);
 
 		//Startup Logic
 		instance = this;

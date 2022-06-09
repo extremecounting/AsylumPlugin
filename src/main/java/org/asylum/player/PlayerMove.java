@@ -29,23 +29,25 @@ public class PlayerMove implements Listener {
             }
             player.setWalkSpeed(speed);
         } else {
-            player.setWalkSpeed(speed);
+            player.setWalkSpeed(0.2f);
         }
     }
 
     private int armorStuff(List<ItemStack> armor, String type) {
         int upgrade = 0;
-        for (ItemStack e : armor) {
-            if (e != null && e.hasItemMeta()) {
-                if (e.getItemMeta().hasLore()) {
-                    if (e.getItemMeta().getLore().contains(type + " IV")) {
-                        upgrade += 4;
-                    } else if (e.getItemMeta().getLore().contains(type + " III")) {
-                        upgrade += 3;
-                    } else if (e.getItemMeta().getLore().contains(type + " II")) {
-                        upgrade += 2;
-                    } else if (e.getItemMeta().getLore().contains(type + " I")) {
-                        upgrade++;
+        for (ItemStack item : armor) {
+            if (item != null) {
+                if(item.hasItemMeta()) {
+                    if (item.getItemMeta().hasLore()) {
+                        if (item.getItemMeta().getLore().contains(type + " IV")) {
+                            upgrade += 4;
+                        } else if (item.getItemMeta().getLore().contains(type + " III")) {
+                            upgrade += 3;
+                        } else if (item.getItemMeta().getLore().contains(type + " II")) {
+                            upgrade += 2;
+                        } else if (item.getItemMeta().getLore().contains(type + " I")) {
+                            upgrade++;
+                        }
                     }
                 }
             }
